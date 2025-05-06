@@ -2,26 +2,26 @@
 
 ## About Me
 
-I'm a Senior at Utah State University, where I'm working towards earning a Bachelor's Degree in Electrical Engineering and a Master's in Computer Engineering. 
+I'm a Computer Engineering Intern working at Camp Chef. I have a Bachelor's Degree in Electrical Engineering at Utah State University, and I am working towards earning a Master's in Computer Engineering. 
 
-I have a passion for computers and technology, particularly in the areas of homelabs and self-hosted services. I enjoy tinkering with servers and exploring the potential of 3D printing. When I'm not immersed in tech, I love spending time outdoors, appreciating nature.
+I have a passion for automation, computers and technology, particularly in the areas of homelabs and self-hosted services. I enjoy tinkering with servers and exploring the potential of 3D printing. When I'm not immersed in tech, I love spending time outdoors, appreciating nature by hiking, and playing Disc Golf.
 
 ## Skills and Interests
 
 - **Programming Languages:**
-  - Proficient in C and C++
-  - Experience with Java and Python
+  - Experienced in C and C++
+  - Worked frequently with Java and Python
   - Novice in HTML and CSS
 
 - **Technology Interests:**
-  - Computers and Servers (Homelabs, Self-Hosted Services)
   - Automation
+  - Computers and Servers (Homelabs, Self-Hosted Services)
   - Microcrontrollers
   - 3D Printing
   - Outdoor Activities
 
 - **Technical Skills:**
-  - Familiar with microcontrollers and their architecture
+  - Familiar with Embedded Real-Time Systems and microcontrollers
   - Experienced in writing and developing firmware for microcontrollers
 
 ## Languages and Tools
@@ -45,6 +45,7 @@ I have a passion for computers and technology, particularly in the areas of home
 - **Computer Engineering Intern at Camp Chef** (Hyde Park, UT)
 - **Controlls Engineering Intern at JR Automation** (Ogden, UT)
 - **Mechanical Engineering Intern at ThermoFisher Scientific** (Logan, UT)
+- **Electrical Engineering Intern at EPC Services Company** (Woods Cross, UT)
 <!--
 ## Projects
 
